@@ -20,14 +20,13 @@ I believe that the core of any organisation is its  people.
 
 #### Strategic Thinking and Problem Solving
 
-
-
+<!--
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- A link to some on-line evidence (blogs, videos, articles, etc.) -->
 
 #### Adaptability and Working Under Pressure
 
@@ -69,8 +68,7 @@ Extra curricular roles: Co-founder of Global Undergraduate Economic Forum, Model
 Project | Description | Built With | Tested With
 --- | --- | --- | ---
 [ShopPing!](https://github.com/fahmahmood/shopping-list-app) | A location-based shopping list which reminds users upon proximity to things they need  | Ruby on Rails, JavaScript, Cordova, Bootstrap | RSpec, Capybara
-[CrowdCode](https://github.com/fahmahmood/crowdcode) | Kickstarter for Developers: A platform for developers to materialise and build projects through crowdfunding their projects with development time instead of money | Ruby, Rails | RSpec
-[MakersBnB](https://github.com/fahmahmood/MakersBnB) | MakersBnB | Ruby, Sinatra, Postgres /w DataMapper, HTML5(Slim), CSS3, Bootstrap | RSpec, Capybara, Jasmine
+[CrowdCode](https://github.com/fahmahmood/crowdcode) | Kickstarter for Developers: A platform for developers to materialise and build projects through crowdfunding their projects with development time instead of money | Ruby, Ruby on Rails, JQuery, PostgreSQL | RSpec
 
 ## Experience
 
