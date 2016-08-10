@@ -7,15 +7,14 @@ My decision to enrol in Makers Academy, a selective and hyper-intensive coding p
 
 I am looking to work with and learn from dedicated, intelligent and goal-oriented teams where I can utilise my people and strategic skills to make meaningful impact through tech and beyond tech.
 
-[Skills](#Skills) | [Education](#Education) | [Projects](#Projects) | [Experience](#Experience) | [Interests](#Interests)
-
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#interests) | [Interests](#interests)
 ## Skills
 
 #### People / Team Work
 
 I believe that the core of any organisation is its  people.
 
- It is through this belief that I have made an active effort in developing my interpersonal and relationship building skills. Through my experience as a consultant at <b> Booz & Co. </b>, I saw the importance of relationships and communication within teams in order to create organisational change. At <b> Emotion Tracker</b>, a small tech start up, I played an instrumental role in establishing partnerships with academic and medical institutions that redirected the organisation to the resources it needs for a strategic market entry.  
+ It is through this belief that I have made an active effort in developing my interpersonal and relationship building i skills. Through my experience as a consultant at <b> Booz & Co. </b>, I saw the importance of relationships and communication within teams in order to create organisational change. At <b> Emotion Tracker</b>, a small tech start up, I played an instrumental role in establishing partnerships with academic and medical institutions that redirected the organisation to the resources it needs for a strategic market entry.  
 
 
 #### Strategic Thinking and Problem Solving
