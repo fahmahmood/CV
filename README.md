@@ -7,7 +7,7 @@ My decision to enrol in Makers Academy, a selective and hyper-intensive coding p
 
 I am looking to work with and learn from dedicated, intelligent and goal-oriented teams where I can utilise my people and strategic skills to make meaningful impact through tech and beyond tech.
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Projects](#interests) | [Interests](#interests)
+[Skills](#skills) | [Education](#education) | [Projects](#projects) | [Experience](#experience) |  [Interests](#interests)
 ## Skills
 
 #### People / Team Work
