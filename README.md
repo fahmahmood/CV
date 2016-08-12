@@ -3,7 +3,7 @@
 
 I am a highly inquisitive, analytical and driven individual aspiring to build systems that provide solutions to real-world problems.
 
-My decision to enrol in Makers Academy, a selective and hyper-intensive coding programme, enabled me to learn the ways in which I can use tech to change the way (tech and non-tech) people interact with the world and one another.
+My decision to enrol at Makers Academy, a selective and hyper-intensive coding programme, enabled me to learn the ways in which I can use tech to change the way (tech and non-tech) people interact with the world and one another.
 
 I am looking to work with and learn from dedicated, intelligent and goal-oriented teams where I can utilise my people and strategic thinking skills to make meaningful impact through tech and beyond tech.
 
@@ -17,17 +17,16 @@ I believe that real-world problems are often complex and multi-dimensional.
 
 These problems excite me, so I continue to develop my lateral thinking skills in order to better understand and solve them. My background in Economics, both at <b>Imperial College London</b>  and at the <b>University of Chicago</b>, equipped me with essential critical thinking skills in a framework that evaluates and tackles issues with an analytical and quantitative approach.
 
- I enjoy creating systems through code. While coding at <b> Makers Academy </b>, I was able to break problems down into small and manageable parts in a structured manner. It is only through this structure and the use of logic that I am able to ultimately build [projects](#projects) that I am believe in and am proud of.
+ I enjoy creating systems through code. While coding at <b> Makers Academy</b>, I was able to break problems down into small and manageable parts in a structured manner. It is only through this structure and the use of logic that I am able to ultimately build [projects](#projects) that I believe in and am proud of.
 
 
 #### Adaptability | Working Under Pressure
 
-I believe that the only way to succeed in environments where some elements are beyond your control is by having a high degree of adaptability.
+I believe that the only way to succeed in new environments is by having a high degree of adaptability.
 
-Whether it was debugging unexpected errors, or handling delayed ship arrivals, I saw the necessity of being adaptable. While working for an off-shore marine services company, <b> Al Jazeera Shipping </b>, my main responsibilities of chartering barges and tugboats involved making decisions under immense pressure of time. Delays directly affect costs associated with port fees, storage and repairs of physical assets, and making timely decisions is essential.
+Whether it was debugging unexpected errors, or handling delayed ship arrivals, I saw the necessity of being adaptable. While working for an off-shore marine services company, <b> Al Jazeera Shipping</b>, my main responsibilities of chartering barges and tugboats involved making decisions under immense pressure of time. Delays directly affect costs associated with port fees, storage and repairs of physical assets, and make timely decision making essential.
 
-I find that I gravitate towards challenging environments that encourage innovation. My experience at <b> Makers Academy </b> involved redefining the way I learned and adapted to new (programming) languages. As someone who loves learning new languages (I learned (Portuguese and French in a year), I learned to adapt to different ways of thinking.
-
+I find that I gravitate towards environments that challenge me and my limits. By challenging my limits, I have become a fast learner, have used this skill to fuel my passion for learning new languages (I learned Portuguese and French in a year). So, naturally, my experience at <b> Makers Academy </b> was extremely rewarding and involved redefining the way I learned and adapted to new (programming) languages.
 
 #### People | Team Work
 
