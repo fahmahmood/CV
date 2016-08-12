@@ -15,26 +15,27 @@ I am looking to work with and learn from dedicated, intelligent and goal-oriente
 
 I believe that real-world problems are often complex and multi-dimensional.
 
-These problems excite me, so I continue to develop my lateral thinking skills in order to better understand and solve them. My background in Economics, both at <b>Imperial College London</b>  and at the <b>University of Chicago</b>, equipped me with essential critical thinking skills in a framework that evaluates and tackles issues with an analytical and quantitative approach.
+These problems excite me, and so I continue to develop my lateral thinking skills in order to better understand and solve them. My background in Economics, both at <b>Imperial College London</b>  and at the <b>University of Chicago</b>, equipped me with essential critical thinking skills in a framework that evaluates and tackles issues with an analytical and quantitative approach.
 
  I enjoy creating systems through code. While coding at <b> Makers Academy</b>, I was able to break problems down into small and manageable parts in a structured manner. It is only through this structure and the use of logic that I am able to ultimately build [projects](#projects) that I believe in and am proud of.
 
 
 #### Adaptability | Working Under Pressure
 
-I believe that the only way to succeed in new environments is by having a high degree of adaptability.
+I believe that the only way to succeed in new environments is by being adaptable.
 
-Whether it was debugging unexpected errors, or handling delayed ship arrivals, I saw the necessity of being adaptable. While working for an off-shore marine services company, <b> Al Jazeera Shipping</b>, my main responsibilities of chartering barges and tugboats involved making decisions under immense pressure of time. Delays directly affect costs associated with port fees, storage and repairs of physical assets, and make timely decision making essential.
+Whether it was debugging unexpected errors, or handling delayed ship arrivals, I saw the necessity of adaptability. While working for an off-shore marine services company, <b> Al Jazeera Shipping</b>, my main responsibilities of chartering barges and tugboats involved making decisions under immense time pressure. Delays directly affect costs associated with port fees, storage and repairs of physical assets, and make timely decision making essential.
 
-I find that I gravitate towards environments that challenge me and my limits. By challenging my limits, I have become a fast learner, have used this skill to fuel my passion for learning new languages (I learned Portuguese and French in a year). So, naturally, my experience at <b> Makers Academy </b> was extremely rewarding and involved redefining the way I learned and adapted to new (programming) languages.
+I find that I gravitate towards environments that challenge me and my limits. By challenging my limits, I have become a fast learner. I have used this skill to fuel my passion for learning new languages (I previously learned Portuguese and French in a year). So, naturally, my experience at <b> Makers Academy </b> was extremely rewarding and involved redefining the way I learned and adapted to new (programming) languages.
 
 #### People | Team Work
 
 I believe that the core of any organisation is its  people.
 
 
-I have made an active effort in developing my interpersonal and relationship building skills. Through my experience as a consultant at <b> Booz & Co. </b>, I saw the importance of relationships and effective communication within teams in order to create organisational change. <br>
-At <b> Emotion Tracker</b>, a small tech start up, I played an instrumental role in establishing partnerships with academic and medical institutions that redirected the organisation to the resources it needs for a strategic market entry.
+I have made an active effort in developing my interpersonal and relationship building skills. Through my experience as a consultant at <b> Booz & Co. </b>, I saw the importance of relationships and effective communication within teams in order to create organisational change.
+
+At <b> Emotion Tracker</b>, a small mental health tech start up, I played an instrumental role in establishing partnerships with academic and medical institutions that redirected the organisation to the resources it needs for a strategic market entry.
 
 ## Education
 
@@ -98,8 +99,8 @@ __Booz & Company (_Jun 2012 -  Sept 2012_ )__
 
 
 ##Interests
-* Arts: I have an avid interest in Art History, particularly of the 20th Century, and have actively been involved in the promotion of young artists and art patronage.
-* Languages: English (Fluent), Arabic (Fluent), French(Professional), Portuguese (Professional), Spanish (Conversational).
+* Arts: I have an avid interest in Art History, particularly of the 20th Century, and have actively been involved in the promotion of young and emerging art.
+* Languages: can introduce you to new people and cultures. Through the years, I have built many relationships that would have not been possible without my language skills. I speak  English (fluently), Arabic (fluently), French(professionally), Portuguese (professionally), and Spanish (conversationally).
 
 ## Contact
 
