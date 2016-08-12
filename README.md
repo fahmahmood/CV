@@ -15,18 +15,18 @@ I am looking to work with and learn from dedicated, intelligent and goal-oriente
 
 I believe that real-world problems are often complex and multi-dimensional.
 
-These problems excite me, so I developed my lateral thinking skills in order to better understand and solve them. My background in Economics, both at <b>Imperial College London</b>  and at the <b>University of Chicago</b>, equipped me with essential critical thinking skills in a framework that evaluates and tackles issues with an analytical and quantitative approach.
+These problems excite me, so I continue to develop my lateral thinking skills in order to better understand and solve them. My background in Economics, both at <b>Imperial College London</b>  and at the <b>University of Chicago</b>, equipped me with essential critical thinking skills in a framework that evaluates and tackles issues with an analytical and quantitative approach.
 
-I furthered developed these skills at <b> Makers Academy </b>. I enjoy creating systems through code that require the use of logic. Through coding, I  break problems down into small and manageable parts in a structured manner. It is only through this structure that I am able to ultimately build [projects](#projects) that I am very proud of.
+ I enjoy creating systems through code. While coding at <b> Makers Academy </b>, I was able to break problems down into small and manageable parts in a structured manner. It is only through this structure and the use of logic that I am able to ultimately build [projects](#projects) that I am believe in and am proud of.
 
 
 #### Adaptability | Working Under Pressure
 
-I believe that the only way to handle outcomes beyond your control is to have a high degree of adaptability.
+I believe that the only way to succeed in environments where some elements are beyond your control is by having a high degree of adaptability.
 
-Whether it was debugging unexpected errors, or handling delayed ship arrivals, I saw the necessity of being adaptable. While working for an off-shore marine services company, <b> Al Jazeera Shipping </b>, my main responsibilities of chartering barges and tugboats involved making decisions under immense pressure of time, particularly when delays directly affected costs associated with port fees, storage and repairs of physical assets.
+Whether it was debugging unexpected errors, or handling delayed ship arrivals, I saw the necessity of being adaptable. While working for an off-shore marine services company, <b> Al Jazeera Shipping </b>, my main responsibilities of chartering barges and tugboats involved making decisions under immense pressure of time. Delays directly affect costs associated with port fees, storage and repairs of physical assets, and making timely decisions is essential.
 
-I gravitate towards challenging environments that encourage innovation and new ways of thinking. This drove me to join <b> Makers Academy </b>, where I adapted quickly to a new way of learning. 
+I find that I gravitate towards challenging environments that encourage innovation. My experience at <b> Makers Academy </b> involved redefining the way I learned and adapted to new (programming) languages. As someone who loves learning new languages (I learned (Portuguese and French in a year), I learned to adapt to different ways of thinking.
 
 
 #### People | Team Work
@@ -34,8 +34,8 @@ I gravitate towards challenging environments that encourage innovation and new w
 I believe that the core of any organisation is its  people.
 
 
-  I have made an active effort in developing my interpersonal and relationship building skills. Through my experience as a consultant at <b> Booz & Co. </b>, I saw the importance of relationships and effective communication within teams in order to create organisational change. <br>
-  At <b> Emotion Tracker</b>, a small tech start up, I played an instrumental role in establishing partnerships with academic and medical institutions that redirected the organisation to the resources it needs for a strategic market entry.
+I have made an active effort in developing my interpersonal and relationship building skills. Through my experience as a consultant at <b> Booz & Co. </b>, I saw the importance of relationships and effective communication within teams in order to create organisational change. <br>
+At <b> Emotion Tracker</b>, a small tech start up, I played an instrumental role in establishing partnerships with academic and medical institutions that redirected the organisation to the resources it needs for a strategic market entry.
 
 ## Education
 
