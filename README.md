@@ -100,7 +100,7 @@ __Booz & Company (_Jun 2012 -  Sept 2012_ )__
 
 ##Interests
 * Arts: I have an avid interest in Art History, particularly of the 20th Century, and have actively been involved in the promotion of young and emerging art.
-* Languages: can introduce you to new people and cultures. Through the years, I have built many relationships that would have not been possible without my language skills. I speak  English (fluently), Arabic (fluently), French(professionally), Portuguese (professionally), and Spanish (conversationally).
+* Languages: have introduced me to new people and cultures. Through the years, I have built many relationships that would have not been possible without my language skills. I speak  English (fluently), Arabic (fluently), French(professionally), Portuguese (professionally), and Spanish (conversationally).
 
 ## Contact
 
